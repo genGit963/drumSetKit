@@ -36,29 +36,29 @@ h1{
 }
 
 .a{
-   background-image: url("/images/tom1.png");
+   background-image: url("/tom1.png");
    /* background-position: center;
    background-size: cover; */
 }
 
 .s{
-   background-image: url("/images/tom2.png");
+   background-image: url("/tom2.png");
 }
 
 .d{
-   background-image: url("/images/tom3.png");
+   background-image: url("/tom3.png");
 }
 
 .j{
-   background-image: url("/images/snare.png");
+   background-image: url("/snare.png");
 }
 
 .k{
-   background-image: url("/images/kick.png");
+   background-image: url("/kick.png");
 }
 
 .l{
-   background-image: url("/images/crash.png");
+   background-image: url("/crash.png");
 }
 
 
